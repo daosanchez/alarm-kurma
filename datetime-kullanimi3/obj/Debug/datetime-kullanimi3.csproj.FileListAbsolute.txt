@@ -9,3 +9,14 @@ C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\datetime-kullanimi3\datetime-kullan
 C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\datetime-kullanimi3\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\datetime-kullanimi3\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.exe
 C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\datetime-kullanimi3\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.pdb
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\obj\Debug\datetime_kullanimi3.Form1.resources
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\obj\Debug\datetime_kullanimi3.Properties.Resources.resources
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.exe
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\obj\Debug\datetime-kullanimi3.pdb
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\bin\Debug\datetime-kullanimi3.exe.config
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\bin\Debug\datetime-kullanimi3.exe
+C:\Users\User\Desktop\alarm-kurma-main\datetime-kullanimi3\bin\Debug\datetime-kullanimi3.pdb

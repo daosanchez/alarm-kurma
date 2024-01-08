@@ -21,12 +21,7 @@ namespace datetime_kullanimi3
 
         SoundPlayer player = new SoundPlayer();
 
-        private void btnKur_Click(object sender, EventArgs e)
-        {
-            timer1.Start();
-            lblMesaj.Text = "Alarm Kuruldu.";
-            btnKur.Enabled = false;
-        }
+     
 
         private void timer1_Tick(object sender, EventArgs e)
         {
@@ -54,6 +49,22 @@ namespace datetime_kullanimi3
         private void Form1_Load(object sender, EventArgs e)
         {
             lblMesaj.Text = "...";
+        }
+
+
+        private void btnKur_Click(object sender, EventArgs e)
+        {
+
+            timer1.Start();
+            lblMesaj.Text = "Alarm Kuruldu.";
+            btnBaslat.Enabled = false;
+        }
+
+        private void btnBaslat_Click(object sender, EventArgs e)
+        {
+            timer1.Start();
+            lblMesaj.Text = "Alarm Kuruldu.";
+            btnBaslat.Enabled = false;
         }
     }   
 }
